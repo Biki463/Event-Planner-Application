@@ -1,0 +1,2 @@
+# Event-Planner-Application
+ Introducing Event Planner, a native app meticulously crafted using Java and XML, designed to redefine your event planning experience. At the heart of this innovative solution lies Firebase, a robust backend that ensures real-time data synchronization, providing you with instant updates on event details and decorator availability. Seamlessly connect with a curated list of decorators, each with their unique style, simplifying the process of hiring the perfect match for your event
